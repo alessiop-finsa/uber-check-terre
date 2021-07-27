@@ -1,0 +1,8 @@
+{
+  "name": "UberCheckTerre",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "f1283ab0"
+}
